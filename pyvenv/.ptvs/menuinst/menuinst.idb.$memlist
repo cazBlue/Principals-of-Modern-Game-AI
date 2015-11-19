@@ -1,0 +1,16 @@
+Menu
+linux
+absolute_import
+json
+sys
+csidl
+ShortCut
+get_versions
+_version
+darwin
+install
+__version__
+freedesktop
+win32
+utils
+winshortcut

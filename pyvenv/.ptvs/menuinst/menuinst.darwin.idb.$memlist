@@ -1,0 +1,12 @@
+rm_rf
+Plist
+basename
+os
+sc
+Application
+Menu
+shutil
+join
+writePlist
+sys
+ShortCut

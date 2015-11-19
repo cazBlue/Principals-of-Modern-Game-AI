@@ -1,0 +1,5 @@
+run_tests_if_main
+vp
+assert_raises
+test_figure_creation
+requires_application

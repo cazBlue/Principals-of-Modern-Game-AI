@@ -1,0 +1,15 @@
+_density
+LineVisual
+_simplicity_max
+AxisVisual
+_density_max
+MaxNLocator
+np
+scale_range
+_coverage_max
+_get_ticks_talbot
+_simplicity
+CompoundVisual
+_coverage
+TextVisual
+Ticker

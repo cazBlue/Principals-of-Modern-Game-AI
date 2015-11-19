@@ -1,0 +1,7 @@
+quit
+Application
+create
+use_app
+default_app
+process_events
+run

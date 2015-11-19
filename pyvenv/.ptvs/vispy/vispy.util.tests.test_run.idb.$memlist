@@ -1,0 +1,4 @@
+run_tests_if_main
+test_run
+assert_raises
+run_subprocess

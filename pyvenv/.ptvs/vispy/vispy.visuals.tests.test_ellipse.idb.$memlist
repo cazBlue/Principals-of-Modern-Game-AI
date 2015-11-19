@@ -1,0 +1,10 @@
+test_circle_draw
+visuals
+assert_image_approved
+TestingCanvas
+transforms
+test_ellipse_draw
+requires_application
+test_reactive_draw
+test_arc_draw1
+run_tests_if_main

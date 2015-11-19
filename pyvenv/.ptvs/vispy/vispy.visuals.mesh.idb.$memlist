@@ -1,0 +1,16 @@
+shading_fragment_template
+np
+Color
+Varying
+division
+Visual
+Function
+vec3to4
+vec2to4
+VertexBuffer
+shading_vertex_template
+MeshData
+fragment_template
+MeshVisual
+IndexBuffer
+vertex_template

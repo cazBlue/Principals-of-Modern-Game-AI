@@ -1,0 +1,13 @@
+setapi
+Canvas
+appQt
+create_sphere
+win
+np
+get_colormaps
+QtGui
+MainWindow
+ObjectWidget
+scene
+sys
+QtCore

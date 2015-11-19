@@ -1,0 +1,14 @@
+getargspec
+Application
+requires_application
+vispy
+test_actual
+DummyApplication
+_template
+assert_raises
+keys
+_test_module_properties
+assert_in
+test_template
+run_tests_if_main
+use_app

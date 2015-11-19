@@ -1,0 +1,10 @@
+KEYWORDS
+check_enum
+_screenshot
+frag_draw
+read_pixels
+check_variable
+check_identifier
+string_types
+draw_texture
+vert_draw

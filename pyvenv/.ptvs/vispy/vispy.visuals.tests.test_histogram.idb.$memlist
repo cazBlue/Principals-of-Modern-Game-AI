@@ -1,0 +1,8 @@
+assert_image_approved
+TestingCanvas
+np
+Histogram
+requires_application
+STTransform
+test_histogram
+run_tests_if_main

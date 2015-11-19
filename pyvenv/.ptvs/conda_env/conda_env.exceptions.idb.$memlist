@@ -1,0 +1,11 @@
+SpecNotFound
+EnvironmentFileDoesNotExist
+CondaEnvRuntimeError
+InvalidLoader
+EnvironmentAlreadyInNotebook
+NoBinstar
+EnvironmentFileNotFound
+AlreadyExist
+EnvironmentFileNotDownloaded
+IPythonNotInstalled
+CondaEnvException

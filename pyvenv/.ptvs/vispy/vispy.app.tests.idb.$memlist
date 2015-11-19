@@ -1,0 +1,7 @@
+test_qt
+test_interactive
+test_backends
+test_app
+test_simultaneous
+test_context
+test_ipython

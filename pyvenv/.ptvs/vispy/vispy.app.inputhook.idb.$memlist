@@ -1,0 +1,5 @@
+set_interactive
+stdin_ready
+VisPyInputHook
+inputhook_manager
+InputHookBase

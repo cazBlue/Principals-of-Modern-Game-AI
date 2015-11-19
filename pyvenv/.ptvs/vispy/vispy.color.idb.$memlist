@@ -1,0 +1,14 @@
+BaseColormap
+colormap
+get_color_names
+ColorArray
+__all__
+get_color_dict
+Color
+color_space
+get_colormaps
+tests
+get_colormap
+_color_dict
+Colormap
+color_array

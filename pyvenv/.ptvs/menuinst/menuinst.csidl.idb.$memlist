@@ -1,0 +1,9 @@
+SHGFP_TYPE_DEFAULT
+get_folder_path
+ctypes
+__all__
+wintypes
+SHGetFolderPath
+MAX_PATH
+SHGFP_TYPE_CURRENT
+csidl_consts

@@ -1,0 +1,12 @@
+imp
+text_type
+BytesIO
+_find_module
+_import_six
+_SIX_SEARCH_PATH
+StrictVersion
+file_types
+string_types
+io
+iteritems
+_SIX_MIN_VERSION

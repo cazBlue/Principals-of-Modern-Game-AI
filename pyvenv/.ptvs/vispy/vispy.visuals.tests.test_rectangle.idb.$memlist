@@ -1,0 +1,11 @@
+test_attributes
+visuals
+assert_image_approved
+raises
+transforms
+test_rectangle_draw
+requires_application
+test_reactive_draw
+TestingCanvas
+run_tests_if_main
+test_rectpolygon_draw

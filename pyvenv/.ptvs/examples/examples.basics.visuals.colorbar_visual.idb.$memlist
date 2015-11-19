@@ -1,0 +1,17 @@
+np
+get_num_escape_turns
+Canvas
+app
+MAX_ITERATIONS
+get_mandlebrot_escape_values
+STTransform
+ColorBarVisual
+Color
+MIN_MAGNITUDE
+get_vertical_bar
+gloo
+win
+get_colormap
+ESCAPE_MAGNITUDE
+ImageVisual
+colormap

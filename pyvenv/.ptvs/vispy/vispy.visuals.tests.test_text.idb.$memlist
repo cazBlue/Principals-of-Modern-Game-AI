@@ -1,0 +1,6 @@
+run_tests_if_main
+assert_image_approved
+test_text
+TestingCanvas
+Text
+requires_application

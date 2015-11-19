@@ -1,0 +1,10 @@
+test_glir
+test_context
+test_program
+test_use_gloo
+test_util
+test_globject
+test_wrappers
+test_framebuffer
+test_buffer
+test_texture

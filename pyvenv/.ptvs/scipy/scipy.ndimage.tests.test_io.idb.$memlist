@@ -1,0 +1,12 @@
+run_module_suite
+os
+ndi
+absolute_import
+test_imread
+warnings
+division
+print_function
+assert_array_equal
+dec
+Image
+pil_missing

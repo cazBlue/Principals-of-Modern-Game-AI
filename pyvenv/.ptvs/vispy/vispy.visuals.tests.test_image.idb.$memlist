@@ -1,0 +1,7 @@
+assert_image_approved
+run_tests_if_main
+test_image
+np
+requires_application
+TestingCanvas
+Image

@@ -1,0 +1,9 @@
+test_regular_polygon_draw2
+visuals
+test_regular_polygon_draw1
+assert_image_approved
+TestingCanvas
+transforms
+requires_application
+test_reactive_draw
+run_tests_if_main

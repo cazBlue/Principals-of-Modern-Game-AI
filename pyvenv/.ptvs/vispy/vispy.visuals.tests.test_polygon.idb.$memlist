@@ -1,0 +1,11 @@
+visuals
+assert_image_approved
+TestingCanvas
+np
+transforms
+test_rectangle_draw
+requires_application
+requires_scipy
+test_reactive_draw
+run_tests_if_main
+test_square_draw

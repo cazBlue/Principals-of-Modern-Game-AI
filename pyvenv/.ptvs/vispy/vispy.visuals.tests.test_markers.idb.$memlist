@@ -1,0 +1,7 @@
+assert_image_approved
+TestingCanvas
+np
+requires_application
+Markers
+run_tests_if_main
+test_markers

@@ -1,0 +1,5 @@
+assert_allclose
+test_resize
+resize
+assert_raises
+np

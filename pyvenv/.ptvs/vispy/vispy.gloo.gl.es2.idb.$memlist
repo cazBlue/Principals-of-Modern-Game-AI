@@ -1,0 +1,16 @@
+ENUM_MAP
+globals
+_libdum
+Enum
+hasattr
+RuntimeError
+OSError
+_es2
+_copy_gl_functions
+fname
+_lib
+dirname
+sys
+os
+es2_file
+ctypes

@@ -1,0 +1,12 @@
+VERT_SHADER
+Canvas
+kernel
+c
+app
+np
+gloo
+load_spatial_filters
+names
+I
+FRAG_SHADER
+data

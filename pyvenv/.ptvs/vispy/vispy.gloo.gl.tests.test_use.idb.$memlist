@@ -1,0 +1,5 @@
+gl
+teardown_module
+assert_is
+run_tests_if_main
+requires_pyopengl

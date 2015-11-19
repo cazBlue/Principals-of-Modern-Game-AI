@@ -1,0 +1,16 @@
+function_names
+ok_names
+constant_names
+requires_pyopengl
+_DummyObject
+test_destop
+run_tests_if_main
+test_main
+test_pyopengl
+_test_function_names
+_test_constant_names
+_main
+gl
+teardown_module
+test_es2
+test_proxy

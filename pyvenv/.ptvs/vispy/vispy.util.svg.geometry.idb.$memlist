@@ -1,0 +1,17 @@
+curve_recursion_limit
+m_angle_tolerance
+cubic_recursive
+quadratic
+calc_sq_distance
+quadratic_recursive
+curve_collinearity_epsilon
+m_approximation_scale
+m_cusp_limit
+elliptical_arc
+m_distance_tolerance_square
+curve_distance_epsilon
+cubic
+curve_angle_tolerance_epsilon
+epsilon
+math
+arc

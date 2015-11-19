@@ -1,0 +1,16 @@
+run_module_suite
+boxcox1p
+test_boxcox_basic
+print_function
+test_boxcox1p_basic
+inv_boxcox1p
+absolute_import
+np
+inv_boxcox
+boxcox
+division
+assert_almost_equal
+test_boxcox_nonfinite
+test_inv_boxcox
+test_boxcox1p_nonfinite
+assert_equal

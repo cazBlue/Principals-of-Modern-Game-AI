@@ -1,0 +1,11 @@
+test_emitter_group
+test_fourier
+test_event_emitter
+test_run
+test_import
+test_vispy
+test_key
+test_docstring_parameters
+test_logging
+test_transforms
+test_config

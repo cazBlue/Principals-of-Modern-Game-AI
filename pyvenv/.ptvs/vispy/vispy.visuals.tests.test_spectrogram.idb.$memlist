@@ -1,0 +1,7 @@
+test_spectrogram
+assert_image_approved
+run_tests_if_main
+np
+requires_application
+Spectrogram
+TestingCanvas

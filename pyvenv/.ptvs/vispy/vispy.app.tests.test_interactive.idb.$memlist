@@ -1,0 +1,5 @@
+run_tests_if_main
+test_interactive
+MockApp
+inputhook_manager
+set_interactive

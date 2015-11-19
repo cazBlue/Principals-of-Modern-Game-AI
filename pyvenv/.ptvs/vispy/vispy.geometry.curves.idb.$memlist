@@ -1,0 +1,15 @@
+curve_collinearity_epsilon
+math
+curve3_bezier
+m_cusp_limit
+_curve3_recursive_bezier
+m_approximation_scale
+curve_recursion_limit
+curve_angle_tolerance_epsilon
+curve4_bezier
+m_distance_tolerance_square
+_curve4_recursive_bezier
+curve_distance_epsilon
+calc_sq_distance
+m_angle_tolerance
+np

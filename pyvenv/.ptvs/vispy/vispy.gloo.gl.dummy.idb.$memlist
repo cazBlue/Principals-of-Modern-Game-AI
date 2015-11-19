@@ -1,0 +1,8 @@
+ENUM_MAP
+DummyProxy
+BaseGLProxy
+_proxy
+_copy_gl_functions
+globals
+Enum
+RuntimeError

@@ -1,0 +1,10 @@
+test_capabilities
+glir
+Canvas
+json
+test_queue
+test_log_parser
+requires_application
+config
+tempfile
+run_tests_if_main

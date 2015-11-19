@@ -1,0 +1,12 @@
+VERT_SHADER
+FRAG_SHADER_VERTICAL
+ColorBarVisual
+_CoreColorBarVisual
+np
+Visual
+Function
+get_colormap
+CompoundVisual
+FRAG_SHADER_HORIZONTAL
+TextVisual
+_BorderVisual

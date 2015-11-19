@@ -1,0 +1,7 @@
+assert_image_approved
+run_tests_if_main
+requires_application
+test_perspective_render
+scene
+io
+TestingCanvas

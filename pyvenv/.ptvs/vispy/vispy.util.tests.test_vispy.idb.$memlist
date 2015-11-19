@@ -1,0 +1,7 @@
+assert_raises
+vispy
+assert_not_equal
+requires_application
+test_use
+assert_equal
+run_tests_if_main
